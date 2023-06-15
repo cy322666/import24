@@ -1,0 +1,7 @@
+/.idea/
+/application/vendor
+/application/storage/logs
+/application/storage/framework
+/application/node_modules
+/elastdocker
+/application/.env
